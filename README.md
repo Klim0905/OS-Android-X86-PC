@@ -4,7 +4,7 @@
 
 Bliss OS:
 
-scrinshot:
+screenshot:
 
 ![29541763](https://github.com/user-attachments/assets/b0eab0a2-6ba2-4fb9-ba98-8e78edb59592)
 ![29541764](https://github.com/user-attachments/assets/eb2b0482-0fc9-4aed-bec8-9d75e74ecb70)
